@@ -10,7 +10,7 @@ import devishankar.github.com.devishankarlogitech.listeners.IMessageLisetner;
 import devishankar.github.com.devishankarlogitech.models.Device;
 
 /**
- * Author by devishankar_r
+ * Author by Devishankar
  */
 
 public class MessageHandler extends Handler {

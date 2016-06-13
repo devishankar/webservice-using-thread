@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import devishankar.github.com.devishankarlogitech.models.Device;
 
 /**
- * Author by devishankar_r
+ * Author by Devishankar
  */
 
 public interface IMessageLisetner {
